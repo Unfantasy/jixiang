@@ -1,2 +1,2 @@
 # jixiang
-personal repository
+my personal repository
